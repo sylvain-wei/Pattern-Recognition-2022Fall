@@ -1,4 +1,4 @@
-# 模式识别大作业
-运行main.py文件，可以进行基于OpenCV的图像特征匹配和融合。
-
-运行sift.py文件，可以得到部分的python实现的SIFT算法。
+# Pattern Recognition 2022Fall
+In this repository, the image features matching and mixing algorithms are provided.
+- By running main.py, you can reproduce the image features matching and mixing based on OpenCV.
+- By running sift.py, you can reproduce the SIFT algorithm implemented by Python.
